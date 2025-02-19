@@ -3,10 +3,10 @@ Analyst with 15 years of U.S. Air Force service—4 years in SIGINT, 11 years op
 
 ## Projects
 - **[CNN Image Classification](https://github.com/josh-koonce/notebooks/tree/main/Project%208%20-%20Convolutional%20Neural%20Network)**: Classified CIFAR-10 subset (~5k images) with TensorFlow/Keras—~87% final accuracy, baseline tunable for flight sims.
-- **[Elite Dangerous Stellar Data](https://github.com/josh-koonce/notebooks/tree/main/Personal%20Project%20-%20Elite%20Dangerous%20Stellar%20Data)**: Clustered 12k+ star systems with PCA/K-means—spatial analytics for exploration, ~87% variance explained.
+- **[Elite Dangerous Stellar Data](https://github.com/josh-koonce/notebooks/tree/main/Personal%20Project%20-%20Elite%20Dangerous%20Stellar%20Data)**: Clustered 65M+ star systems with decision trees and a simple neural net for exploration, ~95% classification accuracy.
 
 ## Skills
-Python (Pandas, Scikit-learn, TensorFlow), SQL, Power BI, SAS JMP—forged in aerospace ops ($1B budgets, F-16 sims), ready for space challenges.
+Python (Pandas, Scikit-learn, TensorFlow, Keras), SQL, Power BI, SAS JMP—forged in aerospace ops ($1B+ budgets, F-16 sims), ready for aerospace challenges.
 
 - **Updated**: Feb 2025
 - **Contact**: [LinkedIn](https://linkedin.com/in/joshua-koonce-26212a195)
